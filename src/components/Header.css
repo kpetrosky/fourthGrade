@@ -1,0 +1,19 @@
+.Header {
+    background-color: #3b1fb6; /* Background color of the header */
+    color: #fff; /* Text color (white) */
+    width: 150px; /* Width of the header */
+    position: fixed; /* Fixed position so it stays at the top of the viewport */
+    top: 0; /* Positioned at the top */
+    left: 0; /* Positioned at the left */
+    height: 10vh; /* Height of the header as 10% of the viewport height */
+    display: flex; /* Use flexbox layout */
+    flex-direction: row; /* Arrange items horizontally in a row */
+    align-items: flex-start; /* Align items to the top */
+    padding-top: 20px; /* Add padding to the top */
+    
+    /* Border properties */
+    border: 2px solid #000; /* Border with a 2px width and black color */
+    border-radius: 5px; /* Rounded corners with a radius of 5px */
+  }
+  
+    
